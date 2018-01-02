@@ -2,11 +2,12 @@
 title: "About"
 output: html_document
 ---
-
-Minimalist attempt to record and share knowledge
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+Minimalist attempt to record and share knowledge
+
+
 
   
