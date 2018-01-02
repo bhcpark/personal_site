@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "About"
 output: html_document
 ---
 
-Why I am so awesome.
+Minimalist attempt to record and share knowledge
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

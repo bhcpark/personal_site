@@ -1,0 +1,29 @@
+---
+title: "Projects"
+output: html_document
+---
+
+Documenting my projects
+
+##Python
+
+- Given a master spreadsheet, create new spreadsheet for each ID
+- Calculate MAC-hours from spreadsheet
+
+##R
+
+- Learning projects
+
+#SikuliX
+
+- Navigate through ancient record keeping software without API to obtain many pages of records
+
+#References
+
+- Beautiful [cheatsheet](https://www.rstudio.com/resources/cheatsheets/) for R
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  
